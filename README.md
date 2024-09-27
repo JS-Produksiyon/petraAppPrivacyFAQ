@@ -1,6 +1,6 @@
 <div align="center" style="padding: 30px;">
 
-![Logo](/appLogo.png)
+![Logo](/logo.png)
 
 # Petra Radyo Oynatıcı | Petra Radio Player
 
