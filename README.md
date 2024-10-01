@@ -4,7 +4,9 @@
 
 # Petra Radyo Oynatıcı | Petra Radio Player
 
-[Türkçe, TR](#türkçe-tr) | [English, US](#english-us)
+[Sıkça Sorulan Sorular](https://github.com/JS-Produksiyon/petraAppPrivacyFAQ/blob/main/FAQ.md) | [Gizlilik Politikası](https://github.com/JS-Produksiyon/petraAppPrivacyFAQ/blob/main/privacyPolicy.md)
+
+[Frequently Asked Questions](https://github.com/JS-Produksiyon/petraAppPrivacyFAQ/blob/main/FAQ.md) | [Privacy Policy](https://github.com/JS-Produksiyon/petraAppPrivacyFAQ/blob/main/privacyPolicy.md)
 
 </div>
 
